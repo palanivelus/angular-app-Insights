@@ -1,0 +1,33 @@
+{
+  "name": "angular-app-Insights",
+  "version": "0.3.1",
+  "homepage": "https://github.com/palanivelus/angular-app-Insights",
+  "authors": [
+    "Palanivelu <cspalni@gmail.com>",
+	"Karthikeyan VK <karthik_3030@yahoo.com>"
+  ],
+  "description": "An angularJS module for using Microsoft Application Insights from within an angularJS application",
+  "main": [ "dist/angular-applicationinsights.js" ],
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "appInsights",
+    "stats",
+    "metrics",
+    "telemetry",
+    "Microsoft",
+	"ai",
+	"angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
