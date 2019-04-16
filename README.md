@@ -2,7 +2,7 @@
 
 
 
-angular-applicationinsights
+angular-app-insights
 ===========================
 [![npm version][npm-image]][npm-url] [![license][lic-image]][lic-url] [![Build Status][travisCI-image]][travisCI-url] [![Dependency Status][dep-image]][dep-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Code Climate][cc-image]][cc-url]
 
