@@ -23,23 +23,20 @@ An implementation of Microsoft Application Insights as a 100% AngularJS module. 
 
 ##### Bower
 ```
-bower install angular-applicationinsights
+bower install angular-app-Insights
 ```
 
 ##### NPM
 ```
-npm i angular-applicationinsights
+npm i angular-app-Insights
 ```
 
-##### Nuget
-```
-Install-Package angular-applicationinsights
-```
+
 
 ####From Source
 ```
-> git clone https://github.com/VladimirRybalko/angular-applicationinsights.git
-> cd angular-applicationinsights
+> git clone https://github.com/palanivelus/angular-app-Insights.git
+> cd angular-app-Insights
 > npm install
 > grunt
 ```
